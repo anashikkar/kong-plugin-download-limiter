@@ -128,3 +128,6 @@ This would be till the exhasution of the addtional 20% bandwidth post which all 
 
 ### **Example**
 API examples and usage is available [here](example/)
+
+API examples and usage is available [here](example/)
+
